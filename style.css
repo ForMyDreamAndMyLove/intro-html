@@ -11,6 +11,7 @@ body {
     align-items: center;
     grid-template-columns: 300px auto;
     background-repeat: no-repeat;
+    box-sizing:border-box;
 }
 
 body:after {
